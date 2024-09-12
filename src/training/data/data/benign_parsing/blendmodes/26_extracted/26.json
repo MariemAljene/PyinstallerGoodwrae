@@ -1,0 +1,1 @@
+{"imports": ["numpy", "Image", "*"], "function_calls": ["open"], "strings": ["original_image.jpg"]}

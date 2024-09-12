@@ -1,0 +1,1 @@
+{"imports": ["builder", "descriptor", "descriptor_pool", "symbol_database", "full_type_pb2", "tensor_shape_pb2", "types_pb2"], "function_calls": ["Default", "AddSerializedFile", "BuildMessageAndEnumDescriptors", "BuildTopDescriptorsAndMessages", "globals", "globals", "Default"], "strings": ["Generated protocol buffer code.", "tensorflow.python.framework.cpp_shape_inference_pb2"]}

@@ -1,0 +1,1 @@
+{"imports": ["setup", "find_packages", "os", "sys"], "function_calls": ["dict", "open", "read", "dict", "dict", "dict", "dict"], "strings": ["setuptools>=40.0.0", "wheel", "twine", "mock", "pytorch_lightning", "pytest>=3.7", "win32", "linux", "README.md", "r", "install_requires", "options", "py2exe", "install_requires", "install_requires", "includes", "compressed", "optimize"]}

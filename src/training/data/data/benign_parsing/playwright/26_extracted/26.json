@@ -1,0 +1,1 @@
+{"imports": ["sync_playwright", "pytest", "os"], "function_calls": ["MagicMock", "test_download_handling", "test_intelligent_dynamic_waits", "test_network_interception", "test_file_upload", "test_all"], "strings": ["filename.txt", "__main__", "spec"]}

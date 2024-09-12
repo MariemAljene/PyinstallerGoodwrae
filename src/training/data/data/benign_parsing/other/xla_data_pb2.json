@@ -1,0 +1,1 @@
+{"imports": ["builder", "descriptor", "descriptor_pool", "symbol_database"], "function_calls": ["Default", "AddSerializedFile", "BuildMessageAndEnumDescriptors", "BuildTopDescriptorsAndMessages", "globals", "globals", "Default"], "strings": ["Generated protocol buffer code.", "xla.xla_data_pb2", "profile_type", "profile_type"]}

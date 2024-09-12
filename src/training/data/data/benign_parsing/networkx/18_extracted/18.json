@@ -1,0 +1,1 @@
+{"imports": ["networkx", "pyplot"], "function_calls": ["GraphManipulations", "add_nodes", "main", "Graph", "add_nodes_from", "add_edge", "has_edge", "draw", "show", "remove_node", "remove_edge"], "strings": ["__main__", "with_labels"]}

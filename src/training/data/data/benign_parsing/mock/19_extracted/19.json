@@ -1,0 +1,1 @@
+{"imports": ["asyncio", "pytest", "patch", "call", "Mock"], "function_calls": ["asyncio", "main", "image_processor"], "strings": ["processed"]}

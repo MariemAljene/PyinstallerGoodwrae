@@ -1,0 +1,1 @@
+{"imports": ["mock", "pytorch_lightning", "numpy", "Trainer"], "function_calls": ["MockedClass", "sample", "sample", "FloatTensor", "FloatTensor", "list", "LitModel", "Trainer", "fit", "zip", "__init__", "Linear", "linear", "forward", "cross_entropy", "Adam", "parameters", "super"], "strings": ["mocked value", "max_epochs", "lr"]}

@@ -1,0 +1,1 @@
+{"imports": ["functools", "numpy", "iterator_ops", "context", "errors", "backend", "callbacks", "distributed_training_utils_v1", "training_utils_v1", "make_batches", "slice_arrays", "ModeKeys", "tf_logging", "data", "nest"], "function_calls": [], "strings": ["Part of the Keras training engine related to plain array data."]}

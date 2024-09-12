@@ -1,0 +1,1 @@
+{"imports": ["os", "time", "mock", "pypandoc", "torch", "nn", "optim", "pytorch_lightning", "DataLoader", "TensorDataset", "numpy"], "function_calls": ["print", "time", "print", "time", "print", "time", "print"], "strings": ["DocumentProcessor initialized.", "Processing document...", "Creating template copy...", "_copy", "Converting format..."]}

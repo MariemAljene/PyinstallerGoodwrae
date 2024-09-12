@@ -1,0 +1,1 @@
+{"imports": ["os", "piexif", "Image"], "function_calls": ["run_flow", "load_image_and_exif", "embed_exif_into_img"], "strings": ["source_image.jpg", "thumbnail.jpg", "target_image.jpg"]}

@@ -1,0 +1,1 @@
+{"imports": ["os", "time", "numpy", "pytorch_lightning", "FileLock", "Timeout", "Process", "Lock", "current_process", "Mock", "patch"], "function_calls": ["array", "square", "print", "LitModel", "print", "main", "forward"], "strings": ["/tmp/my_lock_file", "__main__", "Square: ", "Model output: ", "Hello"]}

@@ -1,0 +1,1 @@
+{"imports": ["numpy", "mock", "pytorch_lightning"], "function_calls": ["create_autospec", "create_autospec", "create_autospec", "print", "print", "increase_speed", "print", "main"], "strings": ["NORTH", "__main__", "NORTH", "SOUTH", "EAST", "WEST", "Mechanical Advantage: ", "Current Direction: ", "New Speed: "]}

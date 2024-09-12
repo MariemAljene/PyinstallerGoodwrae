@@ -1,0 +1,1 @@
+{"imports": ["warnings", "logging", "MobileNetV1ImageProcessor"], "function_calls": ["get_logger", "warn"], "strings": ["Feature extractor class for MobileNetV1.", "The class MobileNetV1FeatureExtractor is deprecated and will be removed in version 5 of Transformers. Please use MobileNetV1ImageProcessor instead."]}

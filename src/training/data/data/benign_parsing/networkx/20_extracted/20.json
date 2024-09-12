@@ -1,0 +1,1 @@
+{"imports": ["networkx", "pyplot"], "function_calls": ["GraphManipulations", "add_nodes", "main", "Graph", "add_nodes_from", "add_edge", "has_edge", "draw", "show", "max", "print", "minimum_spanning_tree", "draw", "show", "remove_node", "remove_edge", "all_simple_paths"], "strings": ["__main__", "Longest Path is ", "with_labels", "key", "with_labels"]}

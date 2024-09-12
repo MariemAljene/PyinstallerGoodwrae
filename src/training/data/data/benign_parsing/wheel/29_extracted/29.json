@@ -1,0 +1,1 @@
+{"imports": ["mock", "numpy", "pytorch_lightning"], "function_calls": ["staticmethod", "array", "__init__", "super"], "strings": ["Mock method called", "Acts as a flywheel", "Facilitates movement", "Supports load"]}

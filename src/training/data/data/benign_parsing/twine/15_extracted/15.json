@@ -1,0 +1,1 @@
+{"imports": [], "function_calls": ["StoryNode", "StoryNode", "StoryNode", "StoryNode", "InteractiveStory", "tell", "choose", "tell", "choose", "tell", "print", "keys"], "strings": ["The end.", "Option 1 leading here", "Option 2 leading here", "Start here", "option1", "end", "end", "end", "option1", "option2"]}

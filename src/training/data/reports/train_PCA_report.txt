@@ -1,0 +1,1410 @@
+Model performance after this iteration:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       400
+           1       1.00      0.99      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 1:
+Excluded Features (decoded): ['x0_* Fernet REG_SZ listdir popen_fork socket _args_from_interpreter_flags Key popen_spawn_win32 sys MIMEMultipart re os win32clipboard OpenKey ImageGrab __doc__ Listener MIMEBase freeze_support sounddevice popen_spawn_posix Process time platform MIMEText write spawn smtplib _clearcache SetValueEx HKEY_CURRENT_USER get KEY_ALL_ACCESS environ encoders getpass multiprocessing']
+Updated X_pca shape: (3214, 1264)
+Iteration 1 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.98       400
+           1       0.99      0.99      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 2:
+Excluded Features (decoded): ['x0_* Timer listdir dyld sys getnode pyimod03_importers warnings os __doc__ Listener ssl encodings LibraryLoader _clearcache DEFAULT_MODE get environ ctypes']
+Updated X_pca shape: (3214, 1263)
+Iteration 2 Performance:
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       400
+           1       0.98      0.98      0.98       565
+
+    accuracy                           0.98       965
+   macro avg       0.98      0.98      0.98       965
+weighted avg       0.98      0.98      0.98       965
+
+
+Iteration 3:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings FrozenImporter os DEFAULT_MODE pkg_resources environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1262)
+Iteration 3 Performance:
+              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.98       400
+           1       0.99      0.98      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 4:
+Excluded Features (decoded): ['x0_* _clearcache TokenGrab listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1261)
+Iteration 4 Performance:
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98       400
+           1       0.98      0.98      0.98       565
+
+    accuracy                           0.98       965
+   macro avg       0.98      0.98      0.98       965
+weighted avg       0.98      0.98      0.98       965
+
+
+Iteration 5:
+Excluded Features (decoded): ['x0_* Download listdir dyld socket argparse exit Helpers copy sys globalvars pyimod03_importers warnings os json __doc__ ssl encodings requests time CodexBuildQuery HyperDriveInstaller Comm LibraryLoader DownloadSettings _clearcache DEFAULT_MODE environ ctypes getpass']
+Updated X_pca shape: (3214, 1260)
+Iteration 5 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       400
+           1       0.97      0.97      0.97       565
+
+    accuracy                           0.97       965
+   macro avg       0.97      0.97      0.97       965
+weighted avg       0.97      0.97      0.97       965
+
+
+Iteration 6:
+Excluded Features (decoded): ['x0_']
+Updated X_pca shape: (3214, 1259)
+Iteration 6 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95       400
+           1       0.96      0.96      0.96       565
+
+    accuracy                           0.96       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.96      0.96      0.96       965
+
+
+Iteration 7:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE environ __doc__ random ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1258)
+Iteration 7 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95       400
+           1       0.96      0.96      0.96       565
+
+    accuracy                           0.96       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.96      0.96      0.96       965
+
+
+Iteration 8:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE shutil environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1257)
+Iteration 8 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95       400
+           1       0.96      0.97      0.97       565
+
+    accuracy                           0.96       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.96      0.96      0.96       965
+
+
+Iteration 9:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE environ __doc__ pyAesCrypt ctypes sys LibraryLoader filedialog']
+Updated X_pca shape: (3214, 1256)
+Iteration 9 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95       400
+           1       0.97      0.97      0.97       565
+
+    accuracy                           0.96       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.96      0.96      0.96       965
+
+
+Iteration 10:
+Excluded Features (decoded): ['x0_* _clearcache ZipFile listdir request os environ __doc__ sys tkinter.messagebox']
+Updated X_pca shape: (3214, 1255)
+Iteration 10 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       400
+           1       0.97      0.97      0.97       565
+
+    accuracy                           0.97       965
+   macro avg       0.97      0.97      0.97       965
+weighted avg       0.97      0.97      0.97       965
+
+
+Iteration 11:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE environ __doc__ pywintypes ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1254)
+Iteration 11 Performance:
+              precision    recall  f1-score   support
+
+           0       0.97      0.96      0.96       400
+           1       0.97      0.98      0.98       565
+
+    accuracy                           0.97       965
+   macro avg       0.97      0.97      0.97       965
+weighted avg       0.97      0.97      0.97       965
+
+
+Iteration 12:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE environ __doc__ random ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1253)
+Iteration 12 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95       400
+           1       0.96      0.97      0.97       565
+
+    accuracy                           0.96       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.96      0.96      0.96       965
+
+
+Iteration 13:
+Excluded Features (decoded): ['x0_* _clearcache re colored listdir popen_fork colorama popen_spawn_posix _args_from_interpreter_flags os spawn environ __doc__ popen_spawn_win32 random sys multiprocessing']
+Updated X_pca shape: (3214, 1252)
+Iteration 13 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.96       400
+           1       0.97      0.97      0.97       565
+
+    accuracy                           0.96       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.96      0.96      0.96       965
+
+
+Iteration 14:
+Excluded Features (decoded): ['x0_* _clearcache re qrcode listdir popen_fork popen_spawn_posix _args_from_interpreter_flags FrozenImporter os spawn environ __doc__ popen_spawn_win32 pkg_resources Image sys multiprocessing']
+Updated X_pca shape: (3214, 1251)
+Iteration 14 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       400
+           1       0.97      0.97      0.97       565
+
+    accuracy                           0.97       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.97      0.97      0.97       965
+
+
+Iteration 15:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings FrozenImporter os DEFAULT_MODE pkg_resources environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1250)
+Iteration 15 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95       400
+           1       0.96      0.96      0.96       565
+
+    accuracy                           0.96       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.96      0.96      0.96       965
+
+
+Iteration 16:
+Excluded Features (decoded): ['x0_* pyimod01_os_path webbrowser listdir popen_fork socket _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sleep sys re pyimod03_importers pyimod00_crypto_key os AF_INET _thread __doc__ random popen_spawn_posix struct time spawn _clearcache zlib SOCK_DGRAM binascii ZlibArchiveReader datetime marshal _frozen_importlib environ ctypes multiprocessing']
+Updated X_pca shape: (3214, 1249)
+Iteration 16 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       400
+           1       0.97      0.97      0.97       565
+
+    accuracy                           0.97       965
+   macro avg       0.97      0.97      0.97       965
+weighted avg       0.97      0.97      0.97       965
+
+
+Iteration 17:
+Excluded Features (decoded): ['x0_* _clearcache re commands listdir popen_fork popen_spawn_posix _args_from_interpreter_flags os discord time spawn environ __doc__ popen_spawn_win32 sys multiprocessing']
+Updated X_pca shape: (3214, 1248)
+Iteration 17 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.91      0.93       400
+           1       0.94      0.97      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.95      0.94      0.94       965
+weighted avg       0.95      0.95      0.94       965
+
+
+Iteration 18:
+Excluded Features (decoded): ['x0_* _clearcache listdir os environ __doc__ sys']
+Updated X_pca shape: (3214, 1247)
+Iteration 18 Performance:
+              precision    recall  f1-score   support
+
+           0       0.98      0.95      0.97       400
+           1       0.97      0.98      0.98       565
+
+    accuracy                           0.97       965
+   macro avg       0.97      0.97      0.97       965
+weighted avg       0.97      0.97      0.97       965
+
+
+Iteration 19:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings FrozenImporter os DEFAULT_MODE pkg_resources environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1246)
+Iteration 19 Performance:
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.98       400
+           1       0.98      0.99      0.98       565
+
+    accuracy                           0.98       965
+   macro avg       0.98      0.98      0.98       965
+weighted avg       0.98      0.98      0.98       965
+
+
+Iteration 20:
+Excluded Features (decoded): ['x0_* Download listdir dyld socket argparse exit Helpers copy sys globalvars pyimod03_importers warnings os json __doc__ ssl encodings requests time CodexBuildQuery HyperDriveInstaller Comm LibraryLoader DownloadSettings _clearcache DEFAULT_MODE environ ctypes getpass']
+Updated X_pca shape: (3214, 1245)
+Iteration 20 Performance:
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       400
+           1       0.98      0.98      0.98       565
+
+    accuracy                           0.98       965
+   macro avg       0.97      0.98      0.98       965
+weighted avg       0.98      0.98      0.98       965
+
+
+Iteration 21:
+Excluded Features (decoded): ['x0_']
+Updated X_pca shape: (3214, 1244)
+Iteration 21 Performance:
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.98       400
+           1       0.98      0.98      0.98       565
+
+    accuracy                           0.98       965
+   macro avg       0.98      0.98      0.98       965
+weighted avg       0.98      0.98      0.98       965
+
+
+Iteration 22:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings FrozenImporter os DEFAULT_MODE pkg_resources environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1243)
+Iteration 22 Performance:
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.98       400
+           1       0.98      0.99      0.98       565
+
+    accuracy                           0.98       965
+   macro avg       0.98      0.98      0.98       965
+weighted avg       0.98      0.98      0.98       965
+
+
+Iteration 23:
+Excluded Features (decoded): ['x0_']
+Updated X_pca shape: (3214, 1242)
+Iteration 23 Performance:
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98       400
+           1       0.99      0.98      0.98       565
+
+    accuracy                           0.98       965
+   macro avg       0.98      0.98      0.98       965
+weighted avg       0.98      0.98      0.98       965
+
+
+Iteration 24:
+Excluded Features (decoded): ['x0_']
+Updated X_pca shape: (3214, 1241)
+Iteration 24 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.97      0.96       400
+           1       0.98      0.97      0.97       565
+
+    accuracy                           0.97       965
+   macro avg       0.97      0.97      0.97       965
+weighted avg       0.97      0.97      0.97       965
+
+
+Iteration 25:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE urllib.request base64 environ __doc__ pickle ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1240)
+Iteration 25 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       400
+           1       0.98      0.97      0.97       565
+
+    accuracy                           0.97       965
+   macro avg       0.97      0.97      0.97       965
+weighted avg       0.97      0.97      0.97       965
+
+
+Iteration 26:
+Excluded Features (decoded): ['x0_* Download listdir dyld socket argparse exit Helpers copy sys globalvars pyimod03_importers warnings os json __doc__ ssl encodings requests time CodexBuildQuery HyperDriveInstaller Comm LibraryLoader DownloadSettings _clearcache DEFAULT_MODE environ ctypes getpass']
+Updated X_pca shape: (3214, 1239)
+Iteration 26 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      0.90      0.90       400
+           1       0.93      0.92      0.93       565
+
+    accuracy                           0.91       965
+   macro avg       0.91      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 27:
+Excluded Features (decoded): ['x0_* listdir popen_fork dyld _args_from_interpreter_flags popen_spawn_win32 sys re tempfile pyimod03_importers warnings os shutil win32com __doc__ atexit ssl encodings win32com.gen_py LibraryLoader spawn _clearcache FrozenImporter DEFAULT_MODE pkg_resources environ ctypes multiprocessing']
+Updated X_pca shape: (3214, 1238)
+Iteration 27 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.94      0.93       400
+           1       0.95      0.95      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 28:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE time environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1237)
+Iteration 28 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.96      0.95       400
+           1       0.97      0.96      0.96       565
+
+    accuracy                           0.96       965
+   macro avg       0.96      0.96      0.96       965
+weighted avg       0.96      0.96      0.96       965
+
+
+Iteration 29:
+Excluded Features (decoded): ['x0_* _clearcache listdir win32crypt socket os json copyfile email.mime.application base64 environ __doc__ sqlite3 psycopg2 sys MIMEText MIMEMultipart smtplib']
+Updated X_pca shape: (3214, 1236)
+Iteration 29 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.91      0.92       400
+           1       0.93      0.96      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.93      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 30:
+Excluded Features (decoded): ['x0_* _clearcache re listdir popen_fork popen_spawn_posix ProductNamesWindow _args_from_interpreter_flags os spawn environ __doc__ popen_spawn_win32 traceback config sys QApplication multiprocessing']
+Updated X_pca shape: (3214, 1235)
+Iteration 30 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.90      0.91       400
+           1       0.93      0.94      0.94       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 31:
+Excluded Features (decoded): ['x0_numpy tensorflow keras layers Sequential to_categorical TFBertModel TensorBoard TFLiteConverter']
+Updated X_pca shape: (3214, 1234)
+Iteration 31 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.90      0.91       400
+           1       0.93      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.92      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 32:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings psutil os datetime DEFAULT_MODE time shutil environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1233)
+Iteration 32 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90       400
+           1       0.92      0.94      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.91      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 33:
+Excluded Features (decoded): ['x0_* pyimod01_os_path listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys re pyimod03_importers pyimod00_crypto_key os pyarmor_runtime _thread __doc__ popen_spawn_posix struct spawn _clearcache zlib ZlibArchiveReader marshal _frozen_importlib environ multiprocessing']
+Updated X_pca shape: (3214, 1232)
+Iteration 33 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       400
+           1       0.94      0.91      0.92       565
+
+    accuracy                           0.91       965
+   macro avg       0.91      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 34:
+Excluded Features (decoded): ['x0_* listdir popen_fork _args_from_interpreter_flags popen_spawn_win32 QtWidgets sys re os __doc__ random popen_spawn_posix QtGui QtCore spawn _clearcache environ ctypes getpass multiprocessing']
+Updated X_pca shape: (3214, 1231)
+Iteration 34 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.91      0.93       400
+           1       0.94      0.96      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 35:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE environ __doc__ random ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1230)
+Iteration 35 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.94      0.94       400
+           1       0.96      0.96      0.96       565
+
+    accuracy                           0.95       965
+   macro avg       0.95      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 36:
+Excluded Features (decoded): ['x0_* _clearcache re listdir popen_fork popen_spawn_posix _args_from_interpreter_flags os spawn environ __doc__ popen_spawn_win32 sys pyperclip multiprocessing']
+Updated X_pca shape: (3214, 1229)
+Iteration 36 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       400
+           1       0.95      0.95      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 37:
+Excluded Features (decoded): ['x0_* _clearcache re pydirectinput listdir popen_fork popen_spawn_posix _args_from_interpreter_flags os spawn environ __doc__ popen_spawn_win32 sleep sys multiprocessing']
+Updated X_pca shape: (3214, 1228)
+Iteration 37 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91       400
+           1       0.93      0.94      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 38:
+Excluded Features (decoded): ['x0_os numpy torch nn pytorch_lightning fsspec mock DataLoader MNIST transforms maybe_sync threading']
+Updated X_pca shape: (3214, 1227)
+Iteration 38 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.93       400
+           1       0.94      0.97      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.95      0.94      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 39:
+Excluded Features (decoded): ['x0_os numpy torch nn pytorch_lightning mock DataLoader MNIST transforms fsspec']
+Updated X_pca shape: (3214, 1226)
+Iteration 39 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.92      0.92       400
+           1       0.94      0.94      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 40:
+Excluded Features (decoded): ['x0_os torch GPT2LMHeadModel GPT2Tokenizer pipeline T5ForConditionalGeneration T5Tokenizer']
+Updated X_pca shape: (3214, 1225)
+Iteration 40 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90       400
+           1       0.92      0.94      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.91      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 41:
+Excluded Features (decoded): ['x0_numpy torch nn reduce rearrange repeat DataLoader Dataset LightningModule Trainer Mock']
+Updated X_pca shape: (3214, 1224)
+Iteration 41 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.94       400
+           1       0.95      0.97      0.96       565
+
+    accuracy                           0.95       965
+   macro avg       0.95      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 42:
+Excluded Features (decoded): ['x0_* _clearcache re subprocess listdir popen_fork elevate popen_spawn_posix psutil _args_from_interpreter_flags os spawn environ __doc__ popen_spawn_win32 ctypes sys multiprocessing']
+Updated X_pca shape: (3214, 1223)
+Iteration 42 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.94      0.93       400
+           1       0.96      0.94      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 43:
+Excluded Features (decoded): ['x0_os time sys zlib BytesIO warnings numpy scipy.sparse native_code swapped_code MatFileReader docfiller matdims read_dtype arr_to_chars arr_dtype_number MatWriteError MatReadError MatReadWarning VarReader5 MatlabObject MatlabFunction MDTYPES NP_TO_MTYPES NP_TO_MXTYPES miCOMPRESSED miMATRIX miINT8 miUTF8 miUINT32 mxCELL_CLASS mxSTRUCT_CLASS mxOBJECT_CLASS mxCHAR_CLASS mxSPARSE_CLASS mxDOUBLE_CLASS mclass_info mat_struct ZlibInputStream']
+Updated X_pca shape: (3214, 1222)
+Iteration 43 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.90      0.91       400
+           1       0.93      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.92      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 44:
+Excluded Features (decoded): ['x0_* pyimod01_os_path listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys re pyimod03_importers pyimod00_crypto_key os _thread __doc__ popen_spawn_posix struct base64 time spawn _clearcache zlib ZlibArchiveReader marshal _frozen_importlib environ multiprocessing']
+Updated X_pca shape: (3214, 1221)
+Iteration 44 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.89      0.91       400
+           1       0.93      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.92      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 45:
+Excluded Features (decoded): ['x0_builder descriptor descriptor_pool symbol_database struct_pb2']
+Updated X_pca shape: (3214, 1220)
+Iteration 45 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93       400
+           1       0.95      0.96      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 46:
+Excluded Features (decoded): ['x0_numpy MagicMock blendmodes torch LightningModule Trainer']
+Updated X_pca shape: (3214, 1219)
+Iteration 46 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.90      0.92       400
+           1       0.93      0.96      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 47:
+Excluded Features (decoded): ['x0_* subprocess imp listdir dyld argparse thread sys pyimod03_importers warnings pyimod00_crypto_key os _thread __doc__ encodings struct time LibraryLoader _clearcache zlib DEFAULT_MODE marshal _frozen_importlib environ ctypes']
+Updated X_pca shape: (3214, 1218)
+Iteration 47 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.91      0.92       400
+           1       0.94      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 48:
+Excluded Features (decoded): ['x0_gradio torch FSMTForConditionalGeneration FSMTTokenizer']
+Updated X_pca shape: (3214, 1217)
+Iteration 48 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.90      0.91       400
+           1       0.93      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.92      0.92       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 49:
+Excluded Features (decoded): ['x0_os time numpy pytorch_lightning FileLock Timeout Process Lock randint']
+Updated X_pca shape: (3214, 1216)
+Iteration 49 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.93      0.92       400
+           1       0.95      0.94      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 50:
+Excluded Features (decoded): ['x0_optree OperatorNode ValueNode OpTree Mock rank_zero_info pytorch_lightning Trainer numpy torch nn optim torch.nn.functional DataLoader datasets transforms']
+Updated X_pca shape: (3214, 1215)
+Iteration 50 Performance:
+              precision    recall  f1-score   support
+
+           0       0.90      0.92      0.91       400
+           1       0.94      0.93      0.94       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 51:
+Excluded Features (decoded): ['x0_os logging pypandoc mock torch nn optim Trainer LightningModule numpy']
+Updated X_pca shape: (3214, 1214)
+Iteration 51 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.91      0.92       400
+           1       0.94      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 52:
+Excluded Features (decoded): ['x0_os sys setup find_packages']
+Updated X_pca shape: (3214, 1213)
+Iteration 52 Performance:
+              precision    recall  f1-score   support
+
+           0       0.96      0.90      0.93       400
+           1       0.93      0.97      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 53:
+Excluded Features (decoded): ['x0_* _clearcache re listdir popen_fork pynput popen_spawn_posix _args_from_interpreter_flags os Key spawn environ __doc__ popen_spawn_win32 sys Listener multiprocessing send_email']
+Updated X_pca shape: (3214, 1212)
+Iteration 53 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.92      0.92       400
+           1       0.94      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 54:
+Excluded Features (decoded): ['x0_numpy torch reduce rearrange repeat pytorch_lightning nn DataLoader Dataset Mock']
+Updated X_pca shape: (3214, 1211)
+Iteration 54 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91       400
+           1       0.94      0.93      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 55:
+Excluded Features (decoded): ['x0_* version_id CONFIG_FILENAME listdir popen_fork _args_from_interpreter_flags get_root_state_directory popen_spawn_win32 sys asyncio SentryStrategy fork_state_directory_if_necessary re get_event_loop os SentryScrubber __doc__ get_versioned_state_directory ssl logging.config tribler_core.config.tribler_config popen_spawn_posix tribler_core.session ensure_future SentryReporter tribler_core.check_os check_for_missing_dependencies spawn _clearcache signal tribler_core.modules.process_checker FrozenImporter tribler_gui pkg_resources environ sentry_url tribler_core multiprocessing']
+Updated X_pca shape: (3214, 1210)
+Iteration 55 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.89      0.92       400
+           1       0.93      0.96      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.94      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 56:
+Excluded Features (decoded): ['x0_* pyimod01_os_path eel listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys re tempfile BeautifulSoup default pyimod03_importers pyimod00_crypto_key os shutil _thread __doc__ atexit ssl popen_spawn_posix struct requests spawn _clearcache zlib FrozenImporter ZlibArchiveReader marshal _frozen_importlib pkg_resources environ pywintypes multiprocessing']
+Updated X_pca shape: (3214, 1209)
+Iteration 56 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.93       400
+           1       0.94      0.96      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 57:
+Excluded Features (decoded): ['x0_* pyimod01_os_path webbrowser listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys asyncio re pyimod03_importers pyimod00_crypto_key os json _thread __doc__ ssl popen_spawn_posix struct requests spawn _clearcache zlib ZlibArchiveReader PySimpleGUI marshal _frozen_importlib environ multiprocessing']
+Updated X_pca shape: (3214, 1208)
+Iteration 57 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.92      0.92       400
+           1       0.94      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 58:
+Excluded Features (decoded): ['x0_* listdir popen_fork _args_from_interpreter_flags pyowm popen_spawn_win32 sys Back re math os __doc__ ssl popen_spawn_posix Style spawn _clearcache Fore FrozenImporter pkg_resources environ multiprocessing init']
+Updated X_pca shape: (3214, 1207)
+Iteration 58 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.92      0.93       400
+           1       0.95      0.95      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 59:
+Excluded Features (decoded): ['x0_numpy torch reduce rearrange repeat sys time nn DataLoader Dataset LightningModule Trainer Mock']
+Updated X_pca shape: (3214, 1206)
+Iteration 59 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92       400
+           1       0.94      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 60:
+Excluded Features (decoded): ['x0_asyncio pytest Mock call Image']
+Updated X_pca shape: (3214, 1205)
+Iteration 60 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.89      0.91       400
+           1       0.92      0.96      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.92      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 61:
+Excluded Features (decoded): ['x0_descriptor descriptor_pool message reflection symbol_database']
+Updated X_pca shape: (3214, 1204)
+Iteration 61 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.92      0.92       400
+           1       0.95      0.95      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 62:
+Excluded Features (decoded): ['x0_listdir os ctypes _clearcache LibraryLoader dyld __doc__ encodings warnings pyimod03_importers environ sys DEFAULT_MODE subprocess *']
+Updated X_pca shape: (3214, 1203)
+Iteration 62 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91       400
+           1       0.93      0.93      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 63:
+Excluded Features (decoded): ['x0_imageio numpy Image']
+Updated X_pca shape: (3214, 1202)
+Iteration 63 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.91      0.92       400
+           1       0.94      0.96      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.93      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 64:
+Excluded Features (decoded): ['x0_* pyimod01_os_path listdir popen_fork _args_from_interpreter_flags msvcrt ArchiveReadError popen_spawn_win32 sys re pyimod03_importers pyimod00_crypto_key os _thread __doc__ popen_spawn_posix struct spawn _clearcache zlib ZlibArchiveReader marshal _frozen_importlib environ multiprocessing']
+Updated X_pca shape: (3214, 1201)
+Iteration 64 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.90      0.92       400
+           1       0.93      0.96      0.95       565
+
+    accuracy                           0.93       965
+   macro avg       0.94      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 65:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE environ __doc__ random ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1200)
+Iteration 65 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.90      0.92       400
+           1       0.93      0.96      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 66:
+Excluded Features (decoded): ['x0_* imp listdir dyld thread sys pyimod03_importers warnings pyimod00_crypto_key os _thread __doc__ encodings struct base64 Memory LibraryLoader _clearcache zlib DEFAULT_MODE marshal _frozen_importlib environ ctypes']
+Updated X_pca shape: (3214, 1199)
+Iteration 66 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       400
+           1       0.95      0.95      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 67:
+Excluded Features (decoded): ['x0_* _clearcache ZipFile listdir request os environ __doc__ sys tkinter.messagebox']
+Updated X_pca shape: (3214, 1198)
+Iteration 67 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.89      0.92       400
+           1       0.93      0.96      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.94      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 68:
+Excluded Features (decoded): ['x0_numpy pytorch_lightning Trainer Dataset DataLoader torch TestCase patch functional']
+Updated X_pca shape: (3214, 1197)
+Iteration 68 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       400
+           1       0.95      0.95      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 69:
+Excluded Features (decoded): ['x0_* _clearcache listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE pyarmor_runtime environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1196)
+Iteration 69 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.89      0.91       400
+           1       0.92      0.95      0.94       565
+
+    accuracy                           0.92       965
+   macro avg       0.93      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 70:
+Excluded Features (decoded): ['x0_* imp listdir dyld copyfile thread exit sqlite3 sys re pyimod03_importers warnings pyimod00_crypto_key os randint shutil _thread __doc__ loads post ssl encodings struct LibraryLoader _clearcache zlib DEFAULT_MODE marshal _frozen_importlib get b64decode environ ctypes']
+Updated X_pca shape: (3214, 1195)
+Iteration 70 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92       400
+           1       0.94      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 71:
+Excluded Features (decoded): ['x0_* imp listdir dyld thread sys pyimod03_importers warnings pyimod00_crypto_key os _thread __doc__ encodings struct base64 LibraryLoader _clearcache zlib DEFAULT_MODE marshal _frozen_importlib environ ctypes']
+Updated X_pca shape: (3214, 1194)
+Iteration 71 Performance:
+              precision    recall  f1-score   support
+
+           0       0.95      0.90      0.92       400
+           1       0.93      0.96      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.93      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 72:
+Excluded Features (decoded): ['x0_* pyimod01_os_path listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys re math pyimod03_importers pyimod00_crypto_key os _thread __doc__ popen_spawn_posix struct time spawn _clearcache zlib ZlibArchiveReader marshal _frozen_importlib environ multiprocessing']
+Updated X_pca shape: (3214, 1193)
+Iteration 72 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92       400
+           1       0.93      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 73:
+Excluded Features (decoded): ['x0_* pyimod01_os_path listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys re math pyimod03_importers pyimod00_crypto_key os _thread __doc__ popen_spawn_posix struct time spawn _clearcache zlib ZlibArchiveReader marshal _frozen_importlib environ multiprocessing']
+Updated X_pca shape: (3214, 1192)
+Iteration 73 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       400
+           1       0.95      0.95      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 74:
+Excluded Features (decoded): ['x0_* Download listdir dyld socket argparse exit Helpers copy sys globalvars pyimod03_importers warnings os json __doc__ ssl encodings requests time CodexBuildQuery HyperDriveInstaller Comm LibraryLoader DownloadSettings _clearcache DEFAULT_MODE environ ctypes getpass']
+Updated X_pca shape: (3214, 1191)
+Iteration 74 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.90      0.90       400
+           1       0.93      0.94      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 75:
+Excluded Features (decoded): ['x0_collections warnings numpy tf2 dataset_ops iterator_ops distribute_lib parameter_server_strategy parameter_server_strategy_v2 context def_function constant_op ops sparse_tensor tensor_shape tensor_spec tensor_util type_spec backend losses metrics optimizer_v1 optimizers distributed_training_utils distributed_training_utils_v1 base_layer training training_arrays_v1 training_distributed_v1 training_eager_v1 training_generator_v1 training_utils training_utils_v1 loss_scale_optimizer policy optimizer_v2 saving_utils model_serialization data_utils layer_utils losses_utils tf_inspect tf_utils ModeKeys array_ops math_ops tf_logging base data nest']
+Updated X_pca shape: (3214, 1190)
+Iteration 75 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.88      0.91       400
+           1       0.92      0.96      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.92      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 76:
+Excluded Features (decoded): ['x0_imageio numpy Image ImageFilter ImageTransform os mock']
+Updated X_pca shape: (3214, 1189)
+Iteration 76 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90       400
+           1       0.92      0.94      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.91      0.91       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 77:
+Excluded Features (decoded): ['x0_* pyimod01_os_path webbrowser listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys re pyimod03_importers pyimod00_crypto_key os _thread __doc__ popen_spawn_posix struct spawn _clearcache zlib ZlibArchiveReader marshal _frozen_importlib environ ctypes multiprocessing']
+Updated X_pca shape: (3214, 1188)
+Iteration 77 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92       400
+           1       0.94      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 78:
+Excluded Features (decoded): ['x0_os argparse OmegaConf DictConfig ValidationError torch pytorch_lightning functional mock numpy DataLoader random_split MNIST transforms Optional Any']
+Updated X_pca shape: (3214, 1187)
+Iteration 78 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.89      0.90       400
+           1       0.92      0.94      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.91      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 79:
+Excluded Features (decoded): ['x0_numpy qiskit pyplot QuantumCircuit transpile Aer IBMQ execute job_monitor plot_histogram NoiseModel FakeVigo least_busy']
+Updated X_pca shape: (3214, 1186)
+Iteration 79 Performance:
+              precision    recall  f1-score   support
+
+           0       0.92      0.93      0.92       400
+           1       0.95      0.94      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 80:
+Excluded Features (decoded): ['x0_* _clearcache webbrowser listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE time environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1185)
+Iteration 80 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.91      0.90       400
+           1       0.93      0.92      0.92       565
+
+    accuracy                           0.91       965
+   macro avg       0.91      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 81:
+Excluded Features (decoded): ['x0_* listdir popen_fork _args_from_interpreter_flags create_server popen_spawn_win32 setup_logging sys re frozen load_config os __doc__ ssl ssl_dir popen_spawn_posix spawn _clearcache FrozenImporter pkg_resources environ pywintypes uvicorn uvicorn_logging multiprocessing']
+Updated X_pca shape: (3214, 1184)
+Iteration 81 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.95      0.95       400
+           1       0.96      0.96      0.96       565
+
+    accuracy                           0.95       965
+   macro avg       0.95      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 82:
+Excluded Features (decoded): ['x0_* _clearcache webbrowser listdir encodings dyld pyimod03_importers warnings os DEFAULT_MODE time environ __doc__ ctypes sys LibraryLoader']
+Updated X_pca shape: (3214, 1183)
+Iteration 82 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90       400
+           1       0.94      0.91      0.93       565
+
+    accuracy                           0.91       965
+   macro avg       0.91      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 83:
+Excluded Features (decoded): ['x0_* listdir popen_fork _args_from_interpreter_flags popen_spawn_win32 pickle sys re MS os __doc__ popen_spawn_posix urllib.request base64 spawn _clearcache environ ctypes multiprocessing']
+Updated X_pca shape: (3214, 1182)
+Iteration 83 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.92      0.91       400
+           1       0.94      0.94      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 84:
+Excluded Features (decoded): ['x0_* sha256 subprocess listdir popen_fork socket _args_from_interpreter_flags Thread Key getcwd version popen_spawn_win32 sleep sys getnode re os chdir randint json __doc__ remove session random Listener release ssl popen_spawn_posix shell mss time getuser spawn path _clearcache system File get environ node pathfinder multiprocessing']
+Updated X_pca shape: (3214, 1181)
+Iteration 84 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91       400
+           1       0.94      0.94      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 85:
+Excluded Features (decoded): ['x0_os numpy torch torchvision nn pytorch_lightning mock fsspec']
+Updated X_pca shape: (3214, 1180)
+Iteration 85 Performance:
+              precision    recall  f1-score   support
+
+           0       0.90      0.93      0.91       400
+           1       0.95      0.93      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.92      0.93      0.92       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 86:
+Excluded Features (decoded): ['x0_mock numpy pytorch_lightning']
+Updated X_pca shape: (3214, 1179)
+Iteration 86 Performance:
+              precision    recall  f1-score   support
+
+           0       0.90      0.88      0.89       400
+           1       0.92      0.93      0.93       565
+
+    accuracy                           0.91       965
+   macro avg       0.91      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 87:
+Excluded Features (decoded): ['x0_* pyimod01_os_path listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys re pyimod03_importers pyimod00_crypto_key os _thread __doc__ popen_spawn_posix struct spawn _clearcache zlib ZlibArchiveReader marshal _frozen_importlib environ tkinter multiprocessing']
+Updated X_pca shape: (3214, 1178)
+Iteration 87 Performance:
+              precision    recall  f1-score   support
+
+           0       0.90      0.89      0.89       400
+           1       0.92      0.93      0.93       565
+
+    accuracy                           0.91       965
+   macro avg       0.91      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 88:
+Excluded Features (decoded): ['x0_os pypandoc mock torch nn optim Trainer LightningModule numpy']
+Updated X_pca shape: (3214, 1177)
+Iteration 88 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.89      0.91       400
+           1       0.92      0.95      0.94       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 89:
+Excluded Features (decoded): ['x0_numpy tensorflow pandas Adam TFBertForSequenceClassification BertTokenizer train_test_split']
+Updated X_pca shape: (3214, 1176)
+Iteration 89 Performance:
+              precision    recall  f1-score   support
+
+           0       0.94      0.92      0.93       400
+           1       0.94      0.96      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 90:
+Excluded Features (decoded): ['x0_os pypandoc mock torch nn optim Trainer TensorBoardLogger DataLoader random_split MNIST transforms numpy']
+Updated X_pca shape: (3214, 1175)
+Iteration 90 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.90      0.89       400
+           1       0.93      0.92      0.92       565
+
+    accuracy                           0.91       965
+   macro avg       0.90      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 91:
+Excluded Features (decoded): ['x0_listdir popen_fork requests os popen_spawn_posix _clearcache spawn ssl __doc__ _args_from_interpreter_flags environ re sys popen_spawn_win32 multiprocessing *']
+Updated X_pca shape: (3214, 1174)
+Iteration 91 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.90      0.90       400
+           1       0.93      0.94      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 92:
+Excluded Features (decoded): ['x0_* listdir popen_fork socket _args_from_interpreter_flags uuid discord DiscordEmbed popen_spawn_win32 sys re os json DiscordWebhook __doc__ ssl platform psutil spawn _clearcache commands get environ logging multiprocessing']
+Updated X_pca shape: (3214, 1173)
+Iteration 92 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.90      0.90       400
+           1       0.93      0.93      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 93:
+Excluded Features (decoded): ['x0_os getpass datetime time psutil numpy patch']
+Updated X_pca shape: (3214, 1172)
+Iteration 93 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.90      0.90       400
+           1       0.93      0.93      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 94:
+Excluded Features (decoded): ['x0_numpy Body Depends FastAPI HTTPException status OAuth2PasswordBearer JWTError jwt CryptContext BaseModel List Optional torch pytorch_lightning datetime timedelta uvicorn']
+Updated X_pca shape: (3214, 1171)
+Iteration 94 Performance:
+              precision    recall  f1-score   support
+
+           0       0.93      0.90      0.92       400
+           1       0.93      0.95      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+
+
+Iteration 95:
+Excluded Features (decoded): ['x0_os OmegaConf DictConfig Dict Any torch functional pytorch_lightning mock numpy']
+Updated X_pca shape: (3214, 1170)
+Iteration 95 Performance:
+              precision    recall  f1-score   support
+
+           0       0.87      0.90      0.89       400
+           1       0.93      0.91      0.92       565
+
+    accuracy                           0.90       965
+   macro avg       0.90      0.90      0.90       965
+weighted avg       0.91      0.90      0.90       965
+
+
+Iteration 96:
+Excluded Features (decoded): ['x0_numpy tensorflow keras layers Sequential to_categorical']
+Updated X_pca shape: (3214, 1169)
+Iteration 96 Performance:
+              precision    recall  f1-score   support
+
+           0       0.90      0.88      0.89       400
+           1       0.91      0.93      0.92       565
+
+    accuracy                           0.91       965
+   macro avg       0.91      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 97:
+Excluded Features (decoded): ['x0_os requests BeautifulSoup Environment FileSystemLoader etree html objectify MagicMock patch']
+Updated X_pca shape: (3214, 1168)
+Iteration 97 Performance:
+              precision    recall  f1-score   support
+
+           0       0.90      0.89      0.89       400
+           1       0.92      0.93      0.92       565
+
+    accuracy                           0.91       965
+   macro avg       0.91      0.91      0.91       965
+weighted avg       0.91      0.91      0.91       965
+
+
+Iteration 98:
+Excluded Features (decoded): ['x0_* pyimod01_os_path eel listdir popen_fork _args_from_interpreter_flags Thread ArchiveReadError popen_spawn_win32 sleep sys re tempfile pyimod03_importers pyimod00_crypto_key os shutil _thread __doc__ webdriver atexit popen_spawn_posix struct choice spawn Keys _clearcache zlib FrozenImporter ZlibArchiveReader marshal _frozen_importlib pkg_resources environ pywintypes multiprocessing']
+Updated X_pca shape: (3214, 1167)
+Iteration 98 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91       400
+           1       0.94      0.93      0.94       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 99:
+Excluded Features (decoded): ['x0_* pyimod01_os_path listdir popen_fork _args_from_interpreter_flags ArchiveReadError popen_spawn_win32 sys re pyimod03_importers pyimod00_crypto_key os _thread __doc__ random popen_spawn_posix struct time spawn _clearcache zlib ZlibArchiveReader marshal _frozen_importlib environ multiprocessing']
+Updated X_pca shape: (3214, 1166)
+Iteration 99 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.90      0.91       400
+           1       0.93      0.94      0.93       565
+
+    accuracy                           0.92       965
+   macro avg       0.92      0.92      0.92       965
+weighted avg       0.92      0.92      0.92       965
+
+
+Iteration 100:
+Excluded Features (decoded): ['x0_* listdir popen_fork _args_from_interpreter_flags pyowm popen_spawn_win32 sys Back re math os __doc__ ssl popen_spawn_posix Style spawn _clearcache Fore FrozenImporter pkg_resources environ multiprocessing init']
+Updated X_pca shape: (3214, 1165)
+Iteration 100 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.92      0.92       400
+           1       0.94      0.93      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.93      0.93       965
+weighted avg       0.93      0.93      0.93       965
+

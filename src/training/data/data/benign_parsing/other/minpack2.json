@@ -1,0 +1,1 @@
+{"imports": ["_sub_module_deprecation"], "function_calls": ["_sub_module_deprecation"], "strings": ["dcsrch", "dcstep", "optimize", "minpack2", "_minpack2", "sub_package", "module", "private_modules", "all", "attribute"]}

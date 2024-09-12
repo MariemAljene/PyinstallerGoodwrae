@@ -1,0 +1,1 @@
+{"imports": ["numpy", "pandas", "print", "Console", "Table"], "function_calls": ["Console", "DataFrame", "log", "log", "main", "open", "write"], "strings": ["__main__", "Name", "Age", "Printing logs", "[bold blue]Creating different console styles", "Tom", "Nick", "John", "columns", "logs.txt", "w", "logs"]}

@@ -1,0 +1,1 @@
+{"imports": ["numpy", "pandas", "Console", "Syntax", "install"], "function_calls": ["Console", "DataFrame", "print", "print_with_thread_safety", "create_progress_bar", "create_columns_and_vertical_layout", "main"], "strings": ["__main__", "Printing with Thread Safety", "Tom", "Nick", "John"]}

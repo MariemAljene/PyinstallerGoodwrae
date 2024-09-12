@@ -1,0 +1,1 @@
+{"imports": ["builder", "descriptor", "descriptor_pool", "symbol_database"], "function_calls": ["Default", "AddSerializedFile", "BuildMessageAndEnumDescriptors", "BuildTopDescriptorsAndMessages", "globals", "globals", "Default"], "strings": ["Generated protocol buffer code.", "tsl.protobuf.coordination_config_pb2"]}

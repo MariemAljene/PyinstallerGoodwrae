@@ -1,0 +1,1 @@
+{"imports": ["os", "diskcache", "numpy", "torch", "nn", "optim", "pytorch_lightning", "LightningModule", "Trainer", "Mock", "sleep"], "function_calls": ["__init__", "Linear", "linear_layer", "linear_layer", "mse_loss", "Adam", "Cache", "set", "Mock", "parameters", "array", "super"], "strings": [".cache", "lr", "expire"]}

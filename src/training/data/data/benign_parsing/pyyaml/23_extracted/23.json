@@ -1,0 +1,1 @@
+{"imports": ["yaml", "tweepy", "mock", "pytorch_lightning", "DataLoader", "torch"], "function_calls": ["_fetch_tweets", "len", "__init__", "Linear", "relu", "forward", "l1", "SGD", "l1", "parameters", "super", "view", "size"], "strings": ["loss", "lr"]}

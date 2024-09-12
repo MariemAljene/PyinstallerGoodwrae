@@ -1,0 +1,1 @@
+{"imports": ["renames_v2"], "function_calls": [], "strings": ["Provides a list of renames between TensorFlow 1.* and 2.0."]}

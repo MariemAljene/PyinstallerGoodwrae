@@ -1,0 +1,1 @@
+{"imports": ["datetime", "psutil", "time", "patch"], "function_calls": ["isoformat", "print", "print", "print", "now", "fromtimestamp", "get_system_uptime", "get_boot_time", "get_process_threads", "boot_time", "fromtimestamp", "boot_time"], "strings": ["System uptime: ", "Boot Time: ", "Threads for process id 1: "]}

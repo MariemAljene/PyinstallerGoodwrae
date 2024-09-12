@@ -1,0 +1,1 @@
+{"imports": ["descriptor", "descriptor_pool", "symbol_database", "builder"], "function_calls": ["Default", "globals", "FileDescriptor", "AddSerializedFile", "Default"], "strings": ["Generated protocol buffer code.", "google/protobuf/descriptor.proto", "google.protobuf", "proto2", "name", "package", "syntax", "serialized_options", "create_key", "serialized_pb"]}

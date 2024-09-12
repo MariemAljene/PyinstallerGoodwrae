@@ -1,0 +1,1 @@
+{"imports": ["os", "piexif", "Image", "Optional", "struct", "datetime", "requests", "BytesIO"], "function_calls": ["check_if_exists", "check_if_exists", "get_exif_data", "bool", "exists", "Exception", "get", "get", "get", "get", "format_geo_data", "format_geo_data"], "strings": ["GPS", "GPS", "The file with the given path doesn't exist: "]}

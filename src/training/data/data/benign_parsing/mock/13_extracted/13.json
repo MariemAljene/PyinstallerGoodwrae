@@ -1,0 +1,1 @@
+{"imports": ["pytest", "mock", "Image", "asyncio"], "function_calls": ["Hello", "assert_called_once_with", "object", "patch", "get_event_loop", "DummyClass", "patch", "main", "patch", "object"], "strings": ["__main__", "world", "world", "__init__", "builtins.print", "builtins.open", "PIL.Image.Image.save", "return_value", "new_callable", "dummy_async_func", "new_callable"]}

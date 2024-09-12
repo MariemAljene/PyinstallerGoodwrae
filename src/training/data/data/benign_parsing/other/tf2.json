@@ -1,0 +1,1 @@
+{"imports": ["_pywrap_tf2", "tf_export"], "function_calls": ["enable", "enable", "is_enabled", "tf_export"], "strings": ["Tools to help with the TensorFlow 2.0 transition.\n\nThis module is meant for TensorFlow internal implementation, not for users of\nthe TensorFlow library. For that see tf.compat instead.\n", "__internal__.tf2.enabled", "v1"]}

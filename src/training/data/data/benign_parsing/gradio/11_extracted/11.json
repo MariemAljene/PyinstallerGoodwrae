@@ -1,0 +1,1 @@
+{"imports": ["gradio", "pipeline"], "function_calls": ["pipeline", "load_model", "launch", "main", "model", "translate_text"], "strings": ["__main__", "translation_xx_to_yy", "translation_text", "text", "text", "fn", "inputs", "outputs"]}

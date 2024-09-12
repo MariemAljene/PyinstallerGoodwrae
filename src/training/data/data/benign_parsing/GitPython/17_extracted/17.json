@@ -1,0 +1,1 @@
+{"imports": ["os", "pandas", "mock", "pytorch_lightning", "Repo", "Commit", "Diff", "TagReference", "getpass", "sys"], "function_calls": ["GitOperations", "clone_repo", "checkout_branch", "tag_commit", "inspect_commits", "main"], "strings": ["https://github.com/user/repo.git", "/local/path/to/repo", "<commit-sha>", "v1.0", "__main__"]}

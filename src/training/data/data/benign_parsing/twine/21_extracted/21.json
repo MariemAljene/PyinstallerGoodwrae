@@ -1,0 +1,1 @@
+{"imports": ["install", "setup", "find_packages", "os"], "function_calls": ["setup", "find_packages", "system", "run"], "strings": ["Post-installation for installation mode.", "sample", "0.1", "install", "pip install twine setuptools mock pytorch_lightning", "name", "version", "packages", "cmdclass"]}

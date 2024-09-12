@@ -1,0 +1,1 @@
+{"imports": ["imageio", "numpy", "Image", "ImageFilter", "ImageEnhance", "mock"], "function_calls": ["main", "ImageProcessor", "load_image", "post_processing", "resize", "denoise", "save_image", "print", "imread", "array", "filter", "resize", "imwrite", "filter", "MedianFilter", "fromarray"], "strings": ["image_path", "output.jpg", "Image processing complete."]}

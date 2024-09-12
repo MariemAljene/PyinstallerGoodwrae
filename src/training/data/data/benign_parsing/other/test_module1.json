@@ -1,0 +1,1 @@
+{"imports": ["test_module2"], "function_calls": ["ModuleClass2"], "strings": ["A module target for TraverseTest.test_module."]}

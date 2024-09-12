@@ -1,0 +1,1 @@
+{"imports": ["descriptor", "descriptor_pool", "message", "reflection", "symbol_database"], "function_calls": ["Default", "AddSerializedFile", "GeneratedProtocolMessageType", "RegisterMessage", "Default"], "strings": ["Generated protocol buffer code.", "TextPluginData", "TextPluginData", "DESCRIPTOR", "__module__", "tensorboard.plugins.text.plugin_data_pb2"]}

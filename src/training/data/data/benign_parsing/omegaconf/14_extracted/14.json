@@ -1,0 +1,1 @@
+{"imports": ["os", "OmegaConf", "DictConfig", "torch", "functional", "numpy", "DataLoader", "pytorch_lightning", "mock", "Dict", "List", "Any"], "function_calls": ["LitModel", "load", "merge", "main", "randn", "__init__", "layer", "self", "mse_loss", "log", "Adam", "parameters", "super"], "strings": ["__main__", "train_loss", "lr"]}

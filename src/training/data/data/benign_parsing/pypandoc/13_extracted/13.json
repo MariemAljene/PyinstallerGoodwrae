@@ -1,0 +1,1 @@
+{"imports": ["pypandoc", "os", "optim", "nn", "torch", "numpy", "Trainer", "LightningModule", "mock"], "function_calls": ["__init__", "Linear", "relu", "forward", "mse_loss", "Adam", "forward", "l1", "parameters", "mse_loss", "super", "view", "size"], "strings": ["loss", "batch_val_loss", "lr"]}

@@ -1,0 +1,1 @@
+{"imports": ["summary", "summary", "summary", "summary", "summary", "summary", "summary"], "function_calls": [], "strings": ["Central API entry point for v1 versions of summary operations.\n\nThis module simply offers a shorter way to access the members of modules\nlike `tensorboard.plugins.scalar.summary`.\n"]}

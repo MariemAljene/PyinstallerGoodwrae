@@ -1,0 +1,1 @@
+{"imports": ["time", "random", "aiohttp", "asyncio", "UserAgent", "FakeUserAgentError", "mock", "pprint", "get", "pytorch_lightning", "numpy"], "function_calls": ["CustomUserAgent", "update_user_agent_cache", "main", "UserAgent", "update", "print"], "strings": ["__main__", "Successfully updated the local cache of user agents."]}

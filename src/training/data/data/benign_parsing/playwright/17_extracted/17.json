@@ -1,0 +1,1 @@
+{"imports": ["pytest", "MagicMock", "sync_playwright"], "function_calls": ["test_download_handling", "test_geolocation_support", "test_network_interception", "test_full_browser_automation", "main"], "strings": ["__main__"]}

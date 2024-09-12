@@ -1,0 +1,1 @@
+{"imports": ["pyplot", "cm", "Axes3D", "pandas", "numpy", "Image", "seaborn", "networkx"], "function_calls": ["load_image", "annotate_plot", "create_3D_plot", "integrate_with_pandas_seaborn", "main", "print"], "strings": ["__main__", "your/image/path.jpg", "Image cannot be loaded."]}

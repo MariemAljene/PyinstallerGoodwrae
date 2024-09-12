@@ -1,0 +1,1 @@
+{"imports": ["numpy", "torch", "BertModel", "BertTokenizer"], "function_calls": ["from_pretrained", "from_pretrained", "randint", "ones", "full", "chunk", "range", "enumerate", "ones", "print", "model", "criterion", "backward", "step", "zero_grad", "size"], "strings": ["bert-base-uncased", "__main__", "Chunk ", " size: ", "attention_mask"]}

@@ -1,0 +1,1 @@
+{"imports": ["setuptools", "setup", "find_packages", "os", "sys", "subprocess"], "function_calls": ["isfile", "remove"], "strings": ["twine", "mock", "pytorch_lightning", "MANIFEST", "MANIFEST"]}

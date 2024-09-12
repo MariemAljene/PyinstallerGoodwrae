@@ -1,0 +1,1 @@
+{"imports": ["absolute_import", "numpy", "chainer", "_backend", "_cpu", "config"], "function_calls": [], "strings": []}

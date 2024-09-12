@@ -1,0 +1,1410 @@
+Model performance after this iteration:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 1:
+Excluded Features (decoded): ['calcsize']
+Updated X shape: (3214, 26934)
+Iteration 1 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 2:
+Excluded Features (decoded): ['wilting']
+Updated X shape: (3214, 26933)
+Iteration 2 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 3:
+Excluded Features (decoded): ['replaced']
+Updated X shape: (3214, 26932)
+Iteration 3 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 4:
+Excluded Features (decoded): ['nssm']
+Updated X shape: (3214, 26931)
+Iteration 4 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 5:
+Excluded Features (decoded): ['unmixed']
+Updated X shape: (3214, 26930)
+Iteration 5 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 6:
+Excluded Features (decoded): ['pacari']
+Updated X shape: (3214, 26929)
+Iteration 6 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 7:
+Excluded Features (decoded): ['pacari']
+Updated X shape: (3214, 26928)
+Iteration 7 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 8:
+Excluded Features (decoded): ['pytest']
+Updated X shape: (3214, 26927)
+Iteration 8 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 9:
+Excluded Features (decoded): ['iter_size']
+Updated X shape: (3214, 26926)
+Iteration 9 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 10:
+Excluded Features (decoded): ['unlabeled']
+Updated X shape: (3214, 26925)
+Iteration 10 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 11:
+Excluded Features (decoded): ['positioning']
+Updated X shape: (3214, 26924)
+Iteration 11 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 12:
+Excluded Features (decoded): ['bootstrap']
+Updated X shape: (3214, 26923)
+Iteration 12 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 13:
+Excluded Features (decoded): ['stripe']
+Updated X shape: (3214, 26922)
+Iteration 13 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 14:
+Excluded Features (decoded): ['duration']
+Updated X shape: (3214, 26921)
+Iteration 14 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 15:
+Excluded Features (decoded): ['unterteilt']
+Updated X shape: (3214, 26920)
+Iteration 15 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 16:
+Excluded Features (decoded): ['spec']
+Updated X shape: (3214, 26919)
+Iteration 16 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 17:
+Excluded Features (decoded): ['functionexception']
+Updated X shape: (3214, 26918)
+Iteration 17 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 18:
+Excluded Features (decoded): ['ernte']
+Updated X shape: (3214, 26917)
+Iteration 18 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 19:
+Excluded Features (decoded): ['forumcoin']
+Updated X shape: (3214, 26916)
+Iteration 19 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 20:
+Excluded Features (decoded): ['ornanemta']
+Updated X shape: (3214, 26915)
+Iteration 20 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 21:
+Excluded Features (decoded): ['nnhsn6i6ykf0r0yppdaz2oucdi1okrc4o5wg7cd2rhn']
+Updated X shape: (3214, 26914)
+Iteration 21 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00       400
+           1       0.99      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 22:
+Excluded Features (decoded): ['modo']
+Updated X shape: (3214, 26913)
+Iteration 22 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 23:
+Excluded Features (decoded): ['service_config_pb2']
+Updated X shape: (3214, 26912)
+Iteration 23 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 24:
+Excluded Features (decoded): ['url1']
+Updated X shape: (3214, 26911)
+Iteration 24 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 25:
+Excluded Features (decoded): ['implementation']
+Updated X shape: (3214, 26910)
+Iteration 25 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       400
+           1       1.00      0.99      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 26:
+Excluded Features (decoded): ['fromdual']
+Updated X shape: (3214, 26909)
+Iteration 26 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       400
+           1       1.00      0.99      1.00       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 27:
+Excluded Features (decoded): ['paste']
+Updated X shape: (3214, 26908)
+Iteration 27 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       400
+           1       0.98      1.00      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 28:
+Excluded Features (decoded): ['and']
+Updated X shape: (3214, 26907)
+Iteration 28 Performance:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       400
+           1       1.00      1.00      1.00       565
+
+    accuracy                           1.00       965
+   macro avg       1.00      1.00      1.00       965
+weighted avg       1.00      1.00      1.00       965
+
+
+Iteration 29:
+Excluded Features (decoded): ['foot']
+Updated X shape: (3214, 26906)
+Iteration 29 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       400
+           1       1.00      0.99      1.00       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      1.00      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 30:
+Excluded Features (decoded): ['selectinsubring']
+Updated X shape: (3214, 26905)
+Iteration 30 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       400
+           1       1.00      0.99      1.00       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      1.00      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 31:
+Excluded Features (decoded): ['foreground']
+Updated X shape: (3214, 26904)
+Iteration 31 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       400
+           1       1.00      0.99      1.00       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      1.00      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 32:
+Excluded Features (decoded): ['multinomial_logistic_loss']
+Updated X shape: (3214, 26903)
+Iteration 32 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       400
+           1       1.00      0.99      1.00       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      1.00      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 33:
+Excluded Features (decoded): ['_meipass2']
+Updated X shape: (3214, 26902)
+Iteration 33 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       400
+           1       1.00      0.99      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 34:
+Excluded Features (decoded): ['friend']
+Updated X shape: (3214, 26901)
+Iteration 34 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       400
+           1       0.99      0.99      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 35:
+Excluded Features (decoded): ['magenta']
+Updated X shape: (3214, 26900)
+Iteration 35 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       400
+           1       1.00      0.99      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 36:
+Excluded Features (decoded): ['dlchksellerid']
+Updated X shape: (3214, 26899)
+Iteration 36 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       400
+           1       1.00      0.99      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 37:
+Excluded Features (decoded): ['videntur']
+Updated X shape: (3214, 26898)
+Iteration 37 Performance:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       400
+           1       1.00      0.99      0.99       565
+
+    accuracy                           0.99       965
+   macro avg       0.99      0.99      0.99       965
+weighted avg       0.99      0.99      0.99       965
+
+
+Iteration 38:
+Excluded Features (decoded): ['moor']
+Updated X shape: (3214, 26897)
+Iteration 38 Performance:
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       400
+           1       0.99      0.98      0.99       565
+
+    accuracy                           0.98       965
+   macro avg       0.98      0.98      0.98       965
+weighted avg       0.98      0.98      0.98       965
+
+
+Iteration 39:
+Excluded Features (decoded): ['reshaping']
+Updated X shape: (3214, 26896)
+Iteration 39 Performance:
+              precision    recall  f1-score   support
+
+           0       0.91      0.98      0.94       400
+           1       0.99      0.93      0.96       565
+
+    accuracy                           0.95       965
+   macro avg       0.95      0.96      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 40:
+Excluded Features (decoded): ['user_defined']
+Updated X shape: (3214, 26895)
+Iteration 40 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94       400
+           1       0.99      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 41:
+Excluded Features (decoded): ['normalizationmode']
+Updated X shape: (3214, 26894)
+Iteration 41 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.96      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 42:
+Excluded Features (decoded): ['waitrequest']
+Updated X shape: (3214, 26893)
+Iteration 42 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94       400
+           1       0.99      0.92      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 43:
+Excluded Features (decoded): ['loa_ns1']
+Updated X shape: (3214, 26892)
+Iteration 43 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.98      0.93       400
+           1       0.99      0.90      0.94       565
+
+    accuracy                           0.94       965
+   macro avg       0.93      0.94      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 44:
+Excluded Features (decoded): ['weights_save_path']
+Updated X shape: (3214, 26891)
+Iteration 44 Performance:
+              precision    recall  f1-score   support
+
+           0       0.87      0.98      0.92       400
+           1       0.98      0.90      0.94       565
+
+    accuracy                           0.93       965
+   macro avg       0.93      0.94      0.93       965
+weighted avg       0.94      0.93      0.93       965
+
+
+Iteration 45:
+Excluded Features (decoded): ['thanks_for_using_our_service']
+Updated X shape: (3214, 26890)
+Iteration 45 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94       400
+           1       0.99      0.92      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 46:
+Excluded Features (decoded): ['loaddepth']
+Updated X shape: (3214, 26889)
+Iteration 46 Performance:
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94       400
+           1       0.99      0.92      0.96       565
+
+    accuracy                           0.95       965
+   macro avg       0.95      0.96      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 47:
+Excluded Features (decoded): ['whitneystratifications']
+Updated X shape: (3214, 26888)
+Iteration 47 Performance:
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94       400
+           1       0.99      0.92      0.96       565
+
+    accuracy                           0.95       965
+   macro avg       0.95      0.96      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 48:
+Excluded Features (decoded): ['__main__']
+Updated X shape: (3214, 26887)
+Iteration 48 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93       400
+           1       0.99      0.90      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.94      0.94      0.94       965
+
+
+Iteration 49:
+Excluded Features (decoded): ['clmgzzv9hx3ph7x8ziob3q8wfemx1mcz8l48fwfgx']
+Updated X shape: (3214, 26886)
+Iteration 49 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 50:
+Excluded Features (decoded): ['macaulay2lexer']
+Updated X shape: (3214, 26885)
+Iteration 50 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93       400
+           1       0.99      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 51:
+Excluded Features (decoded): ['lieux']
+Updated X shape: (3214, 26884)
+Iteration 51 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 52:
+Excluded Features (decoded): ['deconvolution']
+Updated X shape: (3214, 26883)
+Iteration 52 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 53:
+Excluded Features (decoded): ['gire']
+Updated X shape: (3214, 26882)
+Iteration 53 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.96      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 54:
+Excluded Features (decoded): ['pwcsgy9ytkuva4n1mkgfglwx8mnzindqgq0c']
+Updated X shape: (3214, 26881)
+Iteration 54 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 55:
+Excluded Features (decoded): ['expressions']
+Updated X shape: (3214, 26880)
+Iteration 55 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 56:
+Excluded Features (decoded): ['lf4g1zkwiexuugqqyohohwbvkfhlmu']
+Updated X shape: (3214, 26879)
+Iteration 56 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 57:
+Excluded Features (decoded): ['combining']
+Updated X shape: (3214, 26878)
+Iteration 57 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 58:
+Excluded Features (decoded): ['umg']
+Updated X shape: (3214, 26877)
+Iteration 58 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 59:
+Excluded Features (decoded): ['isinjective']
+Updated X shape: (3214, 26876)
+Iteration 59 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 60:
+Excluded Features (decoded): ['manuel']
+Updated X shape: (3214, 26875)
+Iteration 60 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 61:
+Excluded Features (decoded): ['outloud']
+Updated X shape: (3214, 26874)
+Iteration 61 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 62:
+Excluded Features (decoded): ['bumble']
+Updated X shape: (3214, 26873)
+Iteration 62 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 63:
+Excluded Features (decoded): ['associativeexpression']
+Updated X shape: (3214, 26872)
+Iteration 63 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 64:
+Excluded Features (decoded): ['pycharm']
+Updated X shape: (3214, 26871)
+Iteration 64 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 65:
+Excluded Features (decoded): ['toricinvariants']
+Updated X shape: (3214, 26870)
+Iteration 65 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 66:
+Excluded Features (decoded): ['ended']
+Updated X shape: (3214, 26869)
+Iteration 66 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 67:
+Excluded Features (decoded): ['file_reader']
+Updated X shape: (3214, 26868)
+Iteration 67 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 68:
+Excluded Features (decoded): ['tgz']
+Updated X shape: (3214, 26867)
+Iteration 68 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 69:
+Excluded Features (decoded): ['cross']
+Updated X shape: (3214, 26866)
+Iteration 69 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 70:
+Excluded Features (decoded): ['local_radius']
+Updated X shape: (3214, 26865)
+Iteration 70 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 71:
+Excluded Features (decoded): ['realpart']
+Updated X shape: (3214, 26864)
+Iteration 71 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93       400
+           1       0.99      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 72:
+Excluded Features (decoded): ['components']
+Updated X shape: (3214, 26863)
+Iteration 72 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 73:
+Excluded Features (decoded): ['meaningful']
+Updated X shape: (3214, 26862)
+Iteration 73 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 74:
+Excluded Features (decoded): ['zaloguj']
+Updated X shape: (3214, 26861)
+Iteration 74 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 75:
+Excluded Features (decoded): ['arch']
+Updated X shape: (3214, 26860)
+Iteration 75 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 76:
+Excluded Features (decoded): ['arch']
+Updated X shape: (3214, 26859)
+Iteration 76 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 77:
+Excluded Features (decoded): ['invalide']
+Updated X shape: (3214, 26858)
+Iteration 77 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 78:
+Excluded Features (decoded): ['zainstaluj']
+Updated X shape: (3214, 26857)
+Iteration 78 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 79:
+Excluded Features (decoded): ['across_channels']
+Updated X shape: (3214, 26856)
+Iteration 79 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 80:
+Excluded Features (decoded): ['ec5221f64a2f6d1ef965a614bdae7973']
+Updated X shape: (3214, 26855)
+Iteration 80 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 81:
+Excluded Features (decoded): ['kappa']
+Updated X shape: (3214, 26854)
+Iteration 81 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 82:
+Excluded Features (decoded): ['seaborgium']
+Updated X shape: (3214, 26853)
+Iteration 82 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 83:
+Excluded Features (decoded): ['tin687']
+Updated X shape: (3214, 26852)
+Iteration 83 Performance:
+              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 84:
+Excluded Features (decoded): ['qmpvw']
+Updated X shape: (3214, 26851)
+Iteration 84 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 85:
+Excluded Features (decoded): ['imperium']
+Updated X shape: (3214, 26850)
+Iteration 85 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 86:
+Excluded Features (decoded): ['mini']
+Updated X shape: (3214, 26849)
+Iteration 86 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93       400
+           1       1.00      0.90      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 87:
+Excluded Features (decoded): ['abiloservices']
+Updated X shape: (3214, 26848)
+Iteration 87 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93       400
+           1       0.99      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 88:
+Excluded Features (decoded): ['rangeexception']
+Updated X shape: (3214, 26847)
+Iteration 88 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 89:
+Excluded Features (decoded): ['container']
+Updated X shape: (3214, 26846)
+Iteration 89 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.94       400
+           1       0.99      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 90:
+Excluded Features (decoded): ['embedded']
+Updated X shape: (3214, 26845)
+Iteration 90 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 91:
+Excluded Features (decoded): ['actor_lr']
+Updated X shape: (3214, 26844)
+Iteration 91 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93       400
+           1       0.99      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 92:
+Excluded Features (decoded): ['webp']
+Updated X shape: (3214, 26843)
+Iteration 92 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 93:
+Excluded Features (decoded): ['remote']
+Updated X shape: (3214, 26842)
+Iteration 93 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 94:
+Excluded Features (decoded): ['oi8vw14vxssoly4qjcknlcbzzwxmlnvybckkicagicagicbpzibtyxrjacbpcybob25logogicagicagicagicbyzxr1cm4grmfsc2ukicagicagicbzzwxmlnvybca9ihnlbgyudxjswzptyxrjac5zcgfukdepwzbdxsarig5ld19wyxrociagicagicagcmv0dxjuifrydwukciagicbkzwygdgx2x3bhy2tfdhjhbnnwb3j0x2dyb3vwkhnlbgypogogicagicagihryyw5zx2dyb3vwica9ihn1cgvykeh0dhbucmfuc3bvcnqsihnlbgyplnrsdl9wywnrx3ryyw5zcg9ydf9ncm91ccgpciagicagicagawygc2vszi51c2vyx2fnzw50ogogicagicagicagicb0cmfuc19ncm91ccarpsb0bhzfcgfjayhutfzfvflqrv9uukfou19vqswgc2vszi51c2vyx2fnzw50kqogicagicagiglmihnlbgyuchjvehk6ciagicagicagicagihryyw5zx2dyb3vwics9ihrsdl9wywnrkfrmvl9uwvbfx1rsqu5tx1bst1hzx0hpu1qsihnlbgyuchjvehkpciagicagicagcmv0dxjuihryyw5zx2dyb3vwcgpjbgfzcybuy3bucmfuc3bvcnqovhjhbnnwb3j0ktokicagigrlzibfx2luaxrfxyhzzwxmlcb1cmwsihnvy2tldd1ob25lktokicagicagicbzdxblcihuy3bucmfuc3bvcnqsihnlbgypll9faw5pdf9fkckkicagicagicbzzwxmlnvybca9ihvybaogicagicagihnlbgyuc29ja2v0id0gc29ja2v0ciagicagicagc2vszi5fy2xlyw51cf90ahjlywqgpsbob25lciagicagicagc2vszi5fzmlyc3rfcgfja2v0id0gvhj1zqokicagigrlzibfc29ja19jbgvhbnvwkhnlbgysihnvy2spogogicagicagihjlbwfpbmluz190aw1lid0gc2vszi5jb21tdw5py2f0aw9ux3rpbwvvdxqkicagicagicb3aglszsbyzw1haw5pbmdfdgltzsa']
+Updated X shape: (3214, 26841)
+Iteration 94 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93       400
+           1       0.99      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 95:
+Excluded Features (decoded): ['witch']
+Updated X shape: (3214, 26840)
+Iteration 95 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.95       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 96:
+Excluded Features (decoded): ['policy']
+Updated X shape: (3214, 26839)
+Iteration 96 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 97:
+Excluded Features (decoded): ['uhplk']
+Updated X shape: (3214, 26838)
+Iteration 97 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+
+
+Iteration 98:
+Excluded Features (decoded): ['complexfield']
+Updated X shape: (3214, 26837)
+Iteration 98 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 99:
+Excluded Features (decoded): ['beast']
+Updated X shape: (3214, 26836)
+Iteration 99 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.90      0.95       565
+
+    accuracy                           0.94       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.94      0.94       965
+
+
+Iteration 100:
+Excluded Features (decoded): ['warn']
+Updated X shape: (3214, 26835)
+Iteration 100 Performance:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94       400
+           1       1.00      0.91      0.95       565
+
+    accuracy                           0.95       965
+   macro avg       0.94      0.95      0.94       965
+weighted avg       0.95      0.95      0.95       965
+

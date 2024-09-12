@@ -1,0 +1,1 @@
+{"imports": ["networkx", "pyplot", "deque"], "function_calls": ["DiGraph", "add_edge", "has_node", "has_node", "add_node", "has_edge", "add_edge", "list", "spring_layout", "get_edge_attributes", "draw_networkx", "draw_networkx_edge_labels", "show", "add_node", "remove_node", "remove_edge", "strongly_connected_components"], "strings": ["weight", "with_labels", "edge_labels"]}

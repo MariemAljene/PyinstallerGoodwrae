@@ -1,0 +1,1 @@
+{"imports": ["pytorch_lightning", "torch", "functional", "DataLoader", "random_split", "MNIST", "transforms"], "function_calls": ["__init__", "Linear", "Linear", "Linear", "size", "view", "layer_1", "relu", "layer_2", "relu", "layer_3", "log_softmax", "super"], "strings": ["dim"]}

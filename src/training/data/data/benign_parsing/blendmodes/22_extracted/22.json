@@ -1,0 +1,1 @@
+{"imports": ["os", "numpy", "Image"], "function_calls": ["convert", "convert", "array", "array", "save", "dirname", "blend_images", "main", "ValueError", "realpath", "open", "open", "fromarray", "astype"], "strings": ["__main__", "RGB", "RGB", "Images must be the same size", "/img1.png", "/img2.png", "/output.png", "alpha", "uint8"]}

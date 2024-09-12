@@ -1,0 +1,1 @@
+{"imports": [], "function_calls": ["Syntax", "print"], "strings": ["\n    import pandas as pd\n    df = pd.DataFrame({'A': [1, 2, 3], 'B': [4, 5, 6]})\n    print(df)\n    ", "python", "line_numbers"]}

@@ -1,0 +1,1 @@
+{"imports": ["networkx", "pyplot", "deque"], "function_calls": ["Graph", "degree", "has_edge", "list", "add_edge", "has_node", "add_node", "has_edge", "add_edge", "draw", "show", "neighbors", "add_node", "remove_node", "remove_edge"], "strings": ["with_labels"]}

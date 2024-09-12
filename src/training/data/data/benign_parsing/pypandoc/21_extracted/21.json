@@ -1,0 +1,1 @@
+{"imports": ["os", "torch", "nn", "optim", "Trainer", "LightningModule", "mock", "numpy"], "function_calls": ["__init__", "Linear", "relu", "Adam", "forward", "mse_loss", "forward", "mse_loss", "l1", "parameters", "super", "view", "size"], "strings": ["loss", "val_loss", "lr"]}

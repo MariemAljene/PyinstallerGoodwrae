@@ -1,0 +1,1 @@
+{"imports": ["tweepy", "networkx", "yaml", "pandas"], "function_calls": ["open", "load"], "strings": ["credentials.yml", "r"]}

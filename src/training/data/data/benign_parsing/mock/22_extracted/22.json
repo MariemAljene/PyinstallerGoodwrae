@@ -1,0 +1,1 @@
+{"imports": ["pytest", "Mock", "patch", "Image", "generator", "image_manipulation", "collections"], "function_calls": ["namedtuple", "Mock", "generator", "Mock", "test_generator", "test_image_manipulation", "test_mocking_namedtuples"], "strings": ["MockedTuple", "__main__", "method", "args", "method1", "method2", "method3", "spec"]}

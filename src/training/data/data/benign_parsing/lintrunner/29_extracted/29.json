@@ -1,0 +1,1 @@
+{"imports": ["unittest", "pylint.lint", "epylint", "os", "mock", "numpy"], "function_calls": ["walk", "main", "get_all_py_files", "array", "YourClass", "assertEqual", "patch", "endswith", "py_run", "read", "assertEqual", "your_method", "array", "append", "join"], "strings": ["__main__", "your_project", "your_project.YourClass", ".py", "", "return_std"]}

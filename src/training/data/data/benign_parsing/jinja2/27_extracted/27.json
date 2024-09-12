@@ -1,0 +1,1 @@
+{"imports": ["Flask", "render_template_string", "Environment", "PackageLoader", "select_autoescape", "mkdocs", "etree", "mock"], "function_calls": ["from_string", "render", "Flask", "render_template_string", "route", "create_template_directly_from_string"], "strings": ["Hello {{ name }}!", "John Doe", "/", "name"]}
